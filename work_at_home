@@ -1,0 +1,4 @@
+flourish㉿kali)-[~]
+└─$ cat Documents/rockyou.txt |grep -o admin5858
+admin5858
+

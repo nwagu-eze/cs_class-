@@ -1,0 +1,13 @@
+1.ifconfig: to check ip
+2.pwd to see your location
+3.whoami to know who is using the system
+4.man to get manual of commands
+5.ls to list content of directory 
+6.touch to create a newfile
+7.cat to print out content of a file 
+8. echo to print on a terminal
+9.mkdir to create a folder
+10.cd to navigate in folders
+11.rm to delete files 
+12.rm -r to delete folder and contents
+ 
